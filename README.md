@@ -180,7 +180,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Lecture 11-12.pdf"> <b> Lecture 11_12.pdf </b></a> </li>
+                <li> <a href="Lecture 11-12.pdf"> <b> Lecture 11 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=gRfmi0KJ_L8"> <b> Lecture 11 Video </b></a> </li>
                 </ul>
          </tr>
@@ -195,7 +195,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Lecture 11-12.pdf"> <b> Lecture 11_12.pdf </b></a> </li>
+                <li> <a href="Lecture 11-12.pdf"> <b> Lecture 12 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=c4kGLV1UQuo"> <b> Lecture 12 Video </b></a> </li>
                 </ul>
          </tr>
