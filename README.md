@@ -59,7 +59,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Lecture 3.pdf"> <b> Lecture 3 </b></a> </li>
+                <li> <a href="Lecture 3_4.pdf"> <b> Lecture 3 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=HxsCnjq_v5A"> <b> Lecture 3 Video </b></a> </li>
                 </ul>
          </tr>
@@ -72,7 +72,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 3_4.pdf"> <b> Lecture 4 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=_GSdzWnHOFA"> <b> Lecture 4 Video </b></a> </li>
                 </ul>
          </tr>
@@ -87,7 +87,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 5.pdf"> <b> Lecture 5 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=Av1xxmJTMeQ"> <b> Lecture 5 Video </b></a> </li>
                 </ul>
          </tr>
@@ -104,7 +104,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 6.pdf"> <b> Lecture 6 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=lKbdgjwyxys"> <b> Lecture 6 Video Part 1 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=oPc4UXrK254"> <b> Lecture 6 Video Part 2 </b></a> </li>
                 </ul>
@@ -119,7 +119,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 7.pdf"> <b> Lecture 7 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=-r-g3x7q1oY"> <b> Lecture 7 Video </b></a> </li>
                 </ul>
          </tr>
@@ -133,7 +133,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 8.pdf"> <b> Lecture 8 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=xMdETHtwWQw"> <b> Lecture 8 Video </b></a> </li>
                 </ul>
          </tr>
@@ -147,7 +147,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 9_10.pdf"> <b> Lecture 9 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=CZfLvoRH_E0"> <b> Lecture 9 Video </b></a> </li>
                 </ul>
          </tr>
@@ -164,7 +164,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 9_10.pdf"> <b> Lecture 10 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=auu-3ds20QU"> <b> Lecture 10 Video </b></a> </li>
                 </ul>
          </tr>
@@ -180,7 +180,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 11_12.pdf"> <b> Lecture 11_12.pdf </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=gRfmi0KJ_L8"> <b> Lecture 11 Video </b></a> </li>
                 </ul>
          </tr>
@@ -195,7 +195,7 @@ Bioinformatics course (MED-121) for 3rd year students, Program of Medical Inform
               </td>
             <td> 
               <ul>
-                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="Lecture 11_12.pdf"> <b> Lecture 11_12.pdf </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=c4kGLV1UQuo"> <b> Lecture 12 Video </b></a> </li>
                 </ul>
          </tr>
